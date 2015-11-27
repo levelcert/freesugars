@@ -1,0 +1,34 @@
+# This file exists so you can easily regenerate your project.
+#
+# Unfortunately cookiecutter can't use this right away so
+# you have to copy this file to ~/.cookiecutterrc
+
+default_context:
+
+    appveyor:                  'no'
+    c_extension_optional:      'no'
+    c_extension_support:       'no'
+    codacy:                    'no'
+    codeclimate:               'no'
+    codecov:                   'no'
+    command_line_interface:    'plain'
+    coveralls:                 'no'
+    distribution_name:         'freesugars'
+    email:                     'rend@levelcert.com'
+    full_name:                 'Level International'
+    github_username:           'levelcert'
+    landscape:                 'no'
+    package_name:              'freesugars'
+    project_name:              'freesugars'
+    project_short_description: 'A utility to calculate the free sugars in a food or drink product.'
+    release_date:              'today'
+    repo_name:                 'freesugars'
+    requiresio:                'no'
+    scrutinizer:               'no'
+    sphinx_theme:              'readthedocs'
+    test_matrix_configurator:  'no'
+    test_runner:               'nose'
+    travis:                    'yes'
+    version:                   '0.1.0'
+    website:                   'http://www.levelcert.com'
+    year:                      'now'

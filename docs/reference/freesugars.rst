@@ -1,0 +1,5 @@
+freesugars
+==========
+
+.. automodule:: freesugars
+    :members:
