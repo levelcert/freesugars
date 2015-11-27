@@ -2,6 +2,12 @@
 Overview
 ========
 
+.. list-table::
+    :stub-columns: 1
+
+    * - tests
+      - | |travis|
+
 .. |travis| image:: https://travis-ci.org/levelcert/freesugars.svg?branch=master
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/levelcert/freesugars
